@@ -7,6 +7,20 @@
     <VERSION>A</VERSION>
    </HEADER>
    <NAME32>Test</NAME32>
+   <PARENT_BF>
+    <SFW_BF_SW_OUTTAB_LINE>
+     <SWITCH_ID>ZSFWTEST</SWITCH_ID>
+     <VERSION>A</VERSION>
+     <BFUNCTION>ZSFWTEST_BF</BFUNCTION>
+     <OWNER>W</OWNER>
+     <TEXT_COMMENT>Assignment is defined in business function</TEXT_COMMENT>
+     <CELLTAB>
+      <LVC_S_STYL>
+       <STYLE>EBA=</STYLE>
+      </LVC_S_STYL>
+     </CELLTAB>
+    </SFW_BF_SW_OUTTAB_LINE>
+   </PARENT_BF>
   </asx:values>
  </asx:abap>
 </abapGit>
